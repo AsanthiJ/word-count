@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Write me ...
+what is the purspose? ...
 
 
 Zipf's law
