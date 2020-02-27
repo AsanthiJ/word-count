@@ -9,4 +9,10 @@ what is the purspose? ...
 Zipf's law
 ----------
 
-Write me ...
+no idea what the Zipf's law is. BUt here are some other equations. 
+
+
+   \begin{eqnarray}
+     x^2 & : x < 0 \\
+     x^3 & : x \ge 0 \\
+   \end{eqnarray}
